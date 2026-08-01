@@ -18,5 +18,9 @@ public class SampleClass {
 		WebElement searchbox = driver.findElement(By.id("twotabsearchtextbox"));
 		searchbox.sendKeys("iphone 15 pro");
 		
+		
+		System.out.println("kalaivanan");
+		System.out.println("Done");
+		
 	}
 }
